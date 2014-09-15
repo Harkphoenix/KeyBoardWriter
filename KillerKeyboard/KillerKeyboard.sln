@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KillerKeyboard", "KillerKeyboard\KillerKeyboard.vcxproj", "{53404648-7028-4297-A0E6-871502BFF8CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53404648-7028-4297-A0E6-871502BFF8CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53404648-7028-4297-A0E6-871502BFF8CA}.Debug|Win32.Build.0 = Debug|Win32
+		{53404648-7028-4297-A0E6-871502BFF8CA}.Release|Win32.ActiveCfg = Release|Win32
+		{53404648-7028-4297-A0E6-871502BFF8CA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
